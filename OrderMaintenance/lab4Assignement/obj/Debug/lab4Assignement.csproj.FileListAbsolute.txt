@@ -1,0 +1,21 @@
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\obj\Debug\lab4Assignement.csprojAssemblyReference.cache
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\obj\Debug\lab4Assignement.frmOrders.resources
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\obj\Debug\lab4Assignement.csproj.GenerateResource.cache
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\obj\Debug\lab4Assignement.csproj.CoreCompileInputs.cache
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\obj\Debug\OrderMaintenance.Properties.Resources.resources
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\bin\Debug\OrderMaintenance.exe.config
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\bin\Debug\OrderMaintenance.exe
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\bin\Debug\OrderMaintenance.pdb
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\obj\Debug\OrderMaintenance.exe
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\obj\Debug\OrderMaintenance.pdb
+C:\Users\819469\source\repos\day9\lab4Assignement\lab4Assignement\obj\Debug\lab4Assignement.frmUpdateOrder.resources
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\bin\Debug\OrderMaintenance.exe.config
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\bin\Debug\OrderMaintenance.exe
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\bin\Debug\OrderMaintenance.pdb
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\obj\Debug\lab4Assignement.csprojAssemblyReference.cache
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\obj\Debug\lab4Assignement.frmOrders.resources
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\obj\Debug\lab4Assignement.frmUpdateOrder.resources
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\obj\Debug\OrderMaintenance.Properties.Resources.resources
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\obj\Debug\lab4Assignement.csproj.GenerateResource.cache
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\obj\Debug\OrderMaintenance.exe
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\lab4Assignement\lab4Assignement\obj\Debug\OrderMaintenance.pdb
